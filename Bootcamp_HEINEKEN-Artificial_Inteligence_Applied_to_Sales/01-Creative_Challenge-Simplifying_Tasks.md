@@ -2,8 +2,8 @@
 
 In this activity, you will follow some simple steps that, in the end, will help create clear and useful prompts using AI.
 
-## Step 1: Define the intention
 
+## Step 1: Define the intention
 
 I want a list of vitamins that are good to be consumed by adults between age 30 to 50 with the objective to sumplemt their diet.
 
